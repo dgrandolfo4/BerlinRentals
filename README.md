@@ -10,12 +10,12 @@ https://www.swi-prolog.org/download/stable/bin/swipl-8.2.4-1.x64.exe.envelope
 
 - Clonare il progetto
 ```
-git clone https://github.com/dgrandolfo4/ICON2324.git
+https://github.com/dgrandolfo4/BerlinRentals.git
 ```
 
 - Posizionarsi nella repository clonata
 ```
-cd ICON2324
+cd BerlinRentals
 ```
 
 - Creare il virtual env
